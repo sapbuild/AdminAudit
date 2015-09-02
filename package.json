@@ -1,0 +1,32 @@
+{
+  "name": "norman-admin-audit",
+  "version": "0.1.0",
+  "description": "SAP Admin Audit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sapbuild/AdminAudit.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "https://github.com/SAP/Build/blob/master/LICENSE.txt"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "object-assign": "~2.0.0",
+    "chai": "~1.10.0",
+    "del": "~1.1.1",
+    "gulp": "~3.9.0",
+    "gulp-concat": "~2.5.2",
+    "gulp-eslint": "~0.9.0",
+    "gulp-istanbul": "~0.8.1",
+    "gulp-jsdoc-to-markdown": "~1.0.2",
+    "gulp-mocha": "~2.0.1",
+    "gulp-sonar": "~1.0.2",
+    "gulp-util": "~3.0.4",
+    "mocha": "~2.0.1",
+    "norman-common-server": "*",
+    "norman-server-tp": "*"
+  }
+}
