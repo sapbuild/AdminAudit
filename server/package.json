@@ -11,8 +11,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sapbuild/AdminAudit.git"
-  }
-  "maintainers": [],
+  },
   "peerDependencies": {
     "norman-common-server": "*",
     "norman-server-tp": "*"
