@@ -1,6 +1,6 @@
 {
   "name": "norman-admin-audit",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "SAP Admin Audit",
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
     "gulp-sonar": "~1.0.2",
     "gulp-util": "~3.0.4",
     "mocha": "~2.0.1",
-    "norman-common-server": "*",
-    "norman-server-tp": "*"
+    "norman-common-server": "0.3.0",
+    "norman-server-tp": "0.3.1"
   }
 }
