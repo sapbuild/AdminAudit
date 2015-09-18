@@ -1,6 +1,6 @@
 {
   "name": "norman-admin-audit-client",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "Angular module to handle audit in admin console",
   "licenses": [
     {
